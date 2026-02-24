@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kartik-portfolio-pi.vercel.app/](https://kartik-portfolio-pi.vercel.app/)
 
-- 💬 Ask me about **React,vite,HTML,CSS ,Javascript**
+- 💬 Ask me about **React,Nextjs, AI Integrations , GeniAI ,Turborepo ,Javascript**
 
 - 📫 How to reach me **kartikjagdale0511@gmail.com**
 
