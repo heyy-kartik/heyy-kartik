@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript,Next.js**
+- 🌱 I’m currently learning **TypeScript,Postgresql,AI Agents**
 
 - 👨‍💻 All of my projects are available at [https://kartik-portfolio-pi.vercel.app/](https://kartik-portfolio-pi.vercel.app/)
 
-- 💬 Ask me about **React,Nextjs, AI Integrations , GeniAI ,Turborepo ,Javascript**
+- 💬 Ask me about **React,Nextjs, AI Integrations , GenAI ,Turborepo ,Javascript**
 
 - 📫 How to reach me **kartikjagdale0511@gmail.com**
 
