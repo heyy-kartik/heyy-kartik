@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript,Postgresql,AI Agents**
 
-- 👨‍💻 All of my projects are available at [🌐 View Portfolio](https://iamkartik.me)
+- 👨‍💻 All of my projects are available at [🌐 iamkartik.me](https://iamkartik.me)
 
 - 💬 Ask me about **React,Nextjs, AI Integrations , GenAI ,Turborepo ,Javascript**
 
